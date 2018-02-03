@@ -16,5 +16,5 @@
     });
 
     $('img').lazyload();
-    $('.lazyload').lazyLoad();
+    $('.lazyload').lazyLoad({ threshold : 200 });
 </script>
