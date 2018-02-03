@@ -3,7 +3,7 @@
      style="
      background: #EEE no-repeat center right;
      background-size: cover;
-     padding: 100px 0">
+     padding: 7rem 0">
     <div class="container clearfix">
         <div class="row clearfix">
             <div class="col-md-5 col-md-offset-1">
