@@ -91,9 +91,11 @@
     </header><!-- #header end -->
 
     <section id="slider" class="full-screen force-full-screen clearfix">
-        <div class="full-screen force-full-screen blurred-img lazyload"
-             data-src="/css/images/hero-image/1.png"
-             style="position: fixed; width: 100%; background: #FFF no-repeat top center; background-size: cover; background-attachment: fixed;">
+        <div class="full-screen force-full-screen blurred-img"
+             style="
+             position: fixed;
+             width: 100%;
+             background: #FFF url('/css/images/hero-image/1.png') no-repeat top center; background-size: cover; background-attachment: fixed;">
 
             <div class="container clearfix">
                 <div class="slider-caption dark slider-caption-right" style="width: 100%; max-width: 430px;">
