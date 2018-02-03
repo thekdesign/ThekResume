@@ -182,7 +182,7 @@
 
                 <div class="col_full center nobottommargin">
                     Copyrights &copy; 2018 All Rights Reserved by Kevin Xu<br>
-                    <div class="copyright-links"><a href="#">Terms of Use</a> / <a href="#">Privacy Policy</a></div>
+                    <div class="copyright-links"><a href="javascript:;">Terms of Use</a> / <a href="javascript:;">Privacy Policy</a></div>
                 </div>
 
             </div>
@@ -195,7 +195,7 @@
 
 <!-- Go To Top
 ============================================= -->
-<div id="gotoTop" class="icon-angle-up"></div>
+<div id="gotoTop" class="fa fa-arrow-up"></div>
 
 @include('include.script')
 

@@ -36,7 +36,10 @@
                     </tr>
                     </tbody>
                 </table>
-                <a href="#" class="button button-large button-border button-black button-dark noleftmargin"><i class="icon-line-cloud-download"></i> Download CV</a>
+                <a href="https://drive.google.com/open?id=1Qi8Ygpxovryh96sIX0RLEjx3GaimXRoN"
+                   target="_blank"
+                   class="button button-large button-border button-black button-dark noleftmargin">
+                    <i class="icon-line-cloud-download"></i> Download CV</a>
             </div>
         </div>
     </div>
