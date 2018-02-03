@@ -14,7 +14,7 @@
             <div class="entry nobottomborder nobottompadding clearfix"
                  style="box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.09);">
                 <div class="entry-image nobottommargin">
-                    <a href="https://blog.hourmasters.com/%E8%A6%81%E6%88%90%E5%8A%9F%E6%B2%92%E6%9C%89%E6%8D%B7%E5%BE%91-%E8%83%BD%E9%9D%A0%E7%9A%84%E5%8F%AA%E6%9C%89%E8%87%AA%E5%B7%B1-47f8676fbc46"
+                    <a href="css/images/blog/1.png"
                        data-lightbox="image">
                         <div class="image_fade lazyload"
                              data-src="css/images/blog/1.png"

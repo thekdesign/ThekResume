@@ -8,34 +8,70 @@
         <div class="row clearfix">
             <div class="col-md-5 col-md-offset-1">
                 <div class="heading-block">
-                    <h2 class="font-secondary nott ls0" style="font-size: 38px; font-weight: 700;">作品集</h2>
-                    <span class="notopmargin">包含著我的作品</span>
+                    <h2 class="font-secondary nott ls0" style="font-size: 38px; font-weight: 700;">愛好</h2>
+                    <span class="notopmargin">我想研究的項目</span>
                 </div>
                 <div class="row clearfix">
                     <div class="col-sm-6">
                         <ul class="niche-demos-lists lists-1">
-                            <li class="notopmargin"><a href="demo-restaurant.html"><img src="images/intro/niche/restaurant.jpg" alt="">Restaurant Demo</a></li>
-                            <li><a href="demo-photography.html"><img src="images/intro/niche/photography.jpg" alt="">Photography</a></li>
-                            <li><a href="demo-medical.html"><img src="images/intro/niche/medical.jpg" alt="">Medical</a></li>
-                            <li><a href="demo-spa.html"><img src="images/intro/niche/spa.jpg" alt="">Spa</a></li>
-                            <li><a href="demo-coffee.html"><img src="images/intro/niche/coffee.jpg" alt="">Coffee</a></li>
-                            <li><a href="demo-interior-design.html"><img src="images/intro/niche/interior-design.jpg" alt="">Interior Design</a></li>
-                            <li><a href="demo-barber.html"><img src="images/intro/niche/barber.jpg" alt="">Barber</a></li>
+                            <li class="notopmargin">
+                                <a href="https://d.laravel-china.org/docs/5.5">
+                                    <img src="css/images/icons/laravel.png">
+                                    Laravel
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://cn.vuejs.org/index.html">
+                                    <img src="css/images/icons/web-page.png">
+                                    Vue
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://weex.apache.org/cn/">
+                                    <img src="css/images/icons/smartphone.png">
+                                    Weex
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://zh.nuxtjs.org/">
+                                    <img src="css/images/icons/search.png">
+                                    Nuxt
+                                </a>
+                            </li>
                         </ul>
                     </div>
                     <div class="col-sm-6">
                         <ul class="niche-demos-lists lists-2">
-                            <li><a href="demo-travel.html"><img src="images/intro/niche/travel.jpg" alt="">Travel</a></li>
-                            <li><a href="demo-media-agency.html"><img src="images/intro/niche/media-agency.jpg" alt="">Media Agency</a></li>
-                            <li><a href="demo-construction.html"><img src="images/intro/niche/construction.jpg" alt="">Construction</a></li>
-                            <li><a href="demo-writer.html"><img src="images/intro/niche/writer.jpg" alt="">Writer</a></li>
-                            <li><a href="demo-real-estate.html"><img src="images/intro/niche/real-estate/1.png" alt="">Real Estate</a></li>
-                            <li><a href="demo-business.html"><img src="images/intro/niche/business.jpg" alt="">Business</a></li>
-                            <li><a href="demo-app-landing.html"><img src="images/intro/niche/app-landing.jpg" alt="">App Landing</a></li>
+                            <li class="notopmargin">
+                                <a href="https://botman.io/">
+                                    <img src="css/images/icons/robot.png">
+                                    Botman
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://developers.facebook.com/">
+                                    <img src="css/images/icons/messenger.png">
+                                    Facebook
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://developer.android.com/studio/index.html">
+                                    <img src="css/images/icons/android.png">
+                                    Android
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://swift.org/">
+                                    <img src="css/images/icons/swift.png">
+                                    Swift
+                                </a>
+                            </li>
                         </ul>
                     </div>
                 </div>
-                <a href="#" class="button button-large button-border button-black button-dark nomargin"><i class="icon-line-stack-2"></i> See More Works</a>
+                <a href="javascript:;"
+                   class="button button-large button-border button-black button-dark nomargin">
+                    <i class="icon-line-stack-2"></i> See More Works</a>
             </div>
         </div>
     </div>

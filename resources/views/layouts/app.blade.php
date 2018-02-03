@@ -97,8 +97,11 @@
 
             <div class="container clearfix">
                 <div class="slider-caption dark slider-caption-right" style="width: 100%; max-width: 430px;">
-                    <h2 class="font-primary ls5" data-animate="fadeIn" style="font-weight: 900; font-size: 80px">Kevin
-                        Xu</h2>
+                    <h2 class="font-primary ls5"
+                        data-animate="fadeIn"
+                        style="font-weight: 900;
+                        font-size: 7rem">
+                        Kevin Xu</h2>
                     <p class="t300 ls1" style="font-size: 24px; color: #AAA;" data-animate="fadeIn" data-delay="400">
                         我會用最簡單的表達呈現我自己。<br>----- 徐鎧文 , 臺北市, 臺灣
                     </p>
