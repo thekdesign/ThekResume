@@ -1,4 +1,6 @@
-<div id="section-about" class="section page-section nomargin clearfix" style="background: #EEE url('css/images/sections/1.png') no-repeat center center; background-size: cover; padding: 100px 0">
+<div id="section-about" class="section page-section nomargin clearfix lazyload"
+     data-original="/css/images/sections/1.png"
+     style="background: #EEE url('/css/images/sections/1.png') no-repeat center center; background-size: cover; padding: 100px 0">
     <div class="container clearfix">
         <div class="row clearfix">
             <div class="col-sm-5 col-sm-offset-7 clearfix">

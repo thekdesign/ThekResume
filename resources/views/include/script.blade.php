@@ -15,5 +15,5 @@
         $(".blurred-img").css({"-webkit-filter": "blur("+pixs+"px)","filter": "blur("+pixs+"px)" });
     });
 
-    // $("div.lazyload").lazyload({ threshold : 200 });
+    $("div.lazyload").lazyload({ threshold : 200 });
 </script>
