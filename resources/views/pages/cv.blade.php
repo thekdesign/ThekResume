@@ -42,31 +42,56 @@
                     <li data-percent="75">
                         <span>HTML+CSS</span>
                         <div class="progress">
-                            <div class="progress-percent"><div class="counter counter-inherit counter-instant"><span data-from="0" data-to="75" data-refresh-interval="30" data-speed="1100"></span>%</div></div>
+                            <div class="progress-percent">
+                                <div class="counter counter-inherit counter-instant"><span data-from="0" data-to="75"
+                                                                                           data-refresh-interval="30"
+                                                                                           data-speed="1100"></span>%
+                                </div>
+                            </div>
                         </div>
                     </li>
                     <li data-percent="60">
                         <span>jQuery</span>
                         <div class="progress">
-                            <div class="progress-percent"><div class="counter counter-inherit counter-instant"><span data-from="0" data-to="60" data-refresh-interval="30" data-speed="1100"></span>%</div></div>
+                            <div class="progress-percent">
+                                <div class="counter counter-inherit counter-instant"><span data-from="0" data-to="60"
+                                                                                           data-refresh-interval="30"
+                                                                                           data-speed="1100"></span>%
+                                </div>
+                            </div>
                         </div>
                     </li>
                     <li data-percent="60">
                         <span>Bootstrap</span>
                         <div class="progress">
-                            <div class="progress-percent"><div class="counter counter-inherit counter-instant"><span data-from="0" data-to="60" data-refresh-interval="30" data-speed="1100"></span>%</div></div>
+                            <div class="progress-percent">
+                                <div class="counter counter-inherit counter-instant"><span data-from="0" data-to="60"
+                                                                                           data-refresh-interval="30"
+                                                                                           data-speed="1100"></span>%
+                                </div>
+                            </div>
                         </div>
                     </li>
                     <li data-percent="75">
                         <span>Vue</span>
                         <div class="progress">
-                            <div class="progress-percent"><div class="counter counter-inherit counter-instant"><span data-from="0" data-to="75" data-refresh-interval="30" data-speed="1100"></span>%</div></div>
+                            <div class="progress-percent">
+                                <div class="counter counter-inherit counter-instant"><span data-from="0" data-to="75"
+                                                                                           data-refresh-interval="30"
+                                                                                           data-speed="1100"></span>%
+                                </div>
+                            </div>
                         </div>
                     </li>
                     <li data-percent="50">
                         <span>Laravel</span>
                         <div class="progress">
-                            <div class="progress-percent"><div class="counter counter-inherit counter-instant"><span data-from="0" data-to="50" data-refresh-interval="30" data-speed="1100"></span>%</div></div>
+                            <div class="progress-percent">
+                                <div class="counter counter-inherit counter-instant"><span data-from="0" data-to="50"
+                                                                                           data-refresh-interval="30"
+                                                                                           data-speed="1100"></span>%
+                                </div>
+                            </div>
                         </div>
                     </li>
                 </ul>

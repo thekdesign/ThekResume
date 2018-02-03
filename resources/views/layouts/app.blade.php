@@ -6,7 +6,7 @@
 
 @include('include.style')
 
-    <!-- Document Title
+<!-- Document Title
     ============================================= -->
     <title>Resume | Kevin</title>
 
@@ -14,9 +14,9 @@
 
 <body class="stretched sticky-responsive-menu">
 
-  <div id="app">
+<div id="app">
 
-  </div>
+</div>
 
 <!-- Document Wrapper
 ============================================= -->
@@ -91,14 +91,19 @@
     </header><!-- #header end -->
 
     <section id="slider" class="full-screen force-full-screen clearfix">
-        <div class="full-screen force-full-screen blurred-img" style="position: fixed; width: 100%; background: #FFF url('css/images/hero-image/1.jpg') no-repeat top center; background-size: cover; background-attachment: fixed;">
+        <div class="full-screen force-full-screen blurred-img"
+             style="position: fixed; width: 100%; background: #FFF url('css/images/hero-image/1.jpg') no-repeat top center; background-size: cover; background-attachment: fixed;">
 
             <div class="container clearfix">
                 <div class="slider-caption dark slider-caption-right" style="width: 100%; max-width: 430px;">
-                    <h2 class="font-primary ls5" data-animate="fadeIn" style="font-weight: 900; font-size: 80px">Kevin Xu</h2>
-                    <p class="t300 ls1" style="font-size: 24px; color: #AAA;" data-animate="fadeIn" data-delay="400">我會用最簡單的表達呈現我自己。<br>----- 徐鎧文 , 臺北市, 臺灣
-</p>
-                    <a class="font-primary noborder ls1 topmargin-sm inline-block more-link dark" style="font-style: normal;" data-animate="fadeIn" data-delay="800" data-scrollto="#section-works" data-offset="0" href="#"><u>My Works</u> &rarr;</a>
+                    <h2 class="font-primary ls5" data-animate="fadeIn" style="font-weight: 900; font-size: 80px">Kevin
+                        Xu</h2>
+                    <p class="t300 ls1" style="font-size: 24px; color: #AAA;" data-animate="fadeIn" data-delay="400">
+                        我會用最簡單的表達呈現我自己。<br>----- 徐鎧文 , 臺北市, 臺灣
+                    </p>
+                    <a class="font-primary noborder ls1 topmargin-sm inline-block more-link dark"
+                       style="font-style: normal;" data-animate="fadeIn" data-delay="800" data-scrollto="#section-works"
+                       data-offset="0" href="#"><u>My Works</u> &rarr;</a>
                 </div>
             </div>
 
@@ -107,7 +112,7 @@
 
 @yield('content')
 
-    <!-- Footer
+<!-- Footer
     ============================================= -->
     <footer id="footer" class="page-section dark noborder nopadding clearfix" style="background-color: #1C1C1C;">
 
@@ -148,11 +153,13 @@
                     <div class="col_one_third col_last">
                         <div class="widget widget_links clearfix">
                             <h4>Social</h4>
-                            <a href="https://www.facebook.com/thekey" target="_blank" class="social-icon nobg si-small si-light si-facebook">
+                            <a href="https://www.facebook.com/thekey" target="_blank"
+                               class="social-icon nobg si-small si-light si-facebook">
                                 <i class="fa fa-facebook fa-stack-1x"></i>
                                 <i class="fa fa-facebook fa-stack-1x"></i>
                             </a>
-                            <a href="https://github.com/ThekDesign" target="_blank" class="social-icon nobg si-small si-light si-github">
+                            <a href="https://github.com/ThekDesign" target="_blank"
+                               class="social-icon nobg si-small si-light si-github">
                                 <i class="fa fa-github fa-stack-1x"></i>
                                 <i class="fa fa-github fa-stack-1x"></i>
                             </a>

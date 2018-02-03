@@ -10,9 +10,13 @@
 
         <div id="posts" class="post-grid grid-3 clearfix">
 
-            <div class="entry nobottomborder nobottompadding clearfix" style="box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.09);">
+            <div class="entry nobottomborder nobottompadding clearfix"
+                 style="box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.09);">
                 <div class="entry-image nobottommargin">
-                    <a href="images/blog/full/17.jpg" data-lightbox="image"><img class="image_fade" src="demos/resume/images/blog/1.jpg" alt="Standard Post with Image" style="border-top-left-radius: 4px; border-top-right-radius: 4px;"></a>
+                    <a href="images/blog/full/17.jpg" data-lightbox="image"><img class="image_fade"
+                                                                                 src="demos/resume/images/blog/1.jpg"
+                                                                                 alt="Standard Post with Image"
+                                                                                 style="border-top-left-radius: 4px; border-top-right-radius: 4px;"></a>
                 </div>
                 <div style="background-color: #FFF; padding: 30px;border-bottom-left-radius: 4px; border-bottom-right-radius: 4px;">
                     <div class="entry-meta nomargin clearfix">
@@ -22,14 +26,20 @@
                         <h2><a href="#" style="">You can now listen to headphones.</a></h2>
                     </div>
                     <div class="entry-content clearfix" style="margin-top: 13px;">
-                        <p class="nobottommargin">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione, voluptatem, dolorem animi nisi autem blanditiis enim culpa reiciendis et explicabo tenetur...</p>
+                        <p class="nobottommargin">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione,
+                            voluptatem, dolorem animi nisi autem blanditiis enim culpa reiciendis et explicabo
+                            tenetur...</p>
                     </div>
                 </div>
             </div>
 
-            <div class="entry nobottomborder nobottompadding clearfix" style="box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.09);">
+            <div class="entry nobottomborder nobottompadding clearfix"
+                 style="box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.09);">
                 <div class="entry-image nobottommargin">
-                    <a href="images/blog/full/17.jpg" data-lightbox="image"><img class="image_fade" src="demos/resume/images/blog/2.jpg" alt="Standard Post with Image" style="border-top-left-radius: 4px; border-top-right-radius: 4px;"></a>
+                    <a href="images/blog/full/17.jpg" data-lightbox="image"><img class="image_fade"
+                                                                                 src="demos/resume/images/blog/2.jpg"
+                                                                                 alt="Standard Post with Image"
+                                                                                 style="border-top-left-radius: 4px; border-top-right-radius: 4px;"></a>
                 </div>
                 <div style="background-color: #FFF; padding: 30px;border-bottom-left-radius: 4px; border-bottom-right-radius: 4px;">
                     <div class="entry-meta nomargin clearfix">
@@ -39,14 +49,20 @@
                         <h2><a href="#">Collaboratively monetize multifunctional.</a></h2>
                     </div>
                     <div class="entry-content clearfix" style="margin-top: 13px;">
-                        <p class="nobottommargin">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione, voluptatem, dolorem animi nisi autem blanditiis enim culpa reiciendis et explicabo tenetur...</p>
+                        <p class="nobottommargin">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione,
+                            voluptatem, dolorem animi nisi autem blanditiis enim culpa reiciendis et explicabo
+                            tenetur...</p>
                     </div>
                 </div>
             </div>
 
-            <div class="entry nobottomborder nobottompadding clearfix" style="box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.09);">
+            <div class="entry nobottomborder nobottompadding clearfix"
+                 style="box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.09);">
                 <div class="entry-image nobottommargin">
-                    <a href="images/blog/full/17.jpg" data-lightbox="image"><img class="image_fade" src="demos/resume/images/blog/3.jpg" alt="Standard Post with Image" style="border-top-left-radius: 4px; border-top-right-radius: 4px;"></a>
+                    <a href="images/blog/full/17.jpg" data-lightbox="image"><img class="image_fade"
+                                                                                 src="demos/resume/images/blog/3.jpg"
+                                                                                 alt="Standard Post with Image"
+                                                                                 style="border-top-left-radius: 4px; border-top-right-radius: 4px;"></a>
                 </div>
                 <div style="background-color: #FFF; padding: 30px;border-bottom-left-radius: 4px; border-bottom-right-radius: 4px;">
                     <div class="entry-meta nomargin clearfix">
@@ -56,7 +72,9 @@
                         <h2><a href="#">Professionally disinter-mediate excellent.</a></h2>
                     </div>
                     <div class="entry-content clearfix" style="margin-top: 13px;">
-                        <p class="nobottommargin">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione, voluptatem, dolorem animi nisi autem blanditiis enim culpa reiciendis et explicabo tenetur...</p>
+                        <p class="nobottommargin">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione,
+                            voluptatem, dolorem animi nisi autem blanditiis enim culpa reiciendis et explicabo
+                            tenetur...</p>
                     </div>
                 </div>
             </div>
