@@ -1,5 +1,5 @@
 <div id="section-about" class="section page-section nomargin clearfix lazyload"
-     data-original="/css/images/sections/1.png"
+     data-src="/css/images/sections/1.png"
      style="background: #EEE no-repeat center center;
             background-size: cover;
             padding: 100px 0">

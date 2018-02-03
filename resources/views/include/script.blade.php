@@ -9,11 +9,15 @@
 <script type="text/javascript" src="js/functions.js"></script>
 
 <script>
-    $(window).scroll(function() {
+    $(window).scroll(function () {
         let pixs = $(window).scrollTop();
         pixs = pixs / 70;
-        $(".blurred-img").css({"-webkit-filter": "blur("+pixs+"px)","filter": "blur("+pixs+"px)" });
+        $(".blurred-img").css({"-webkit-filter": "blur(" + pixs + "px)", "filter": "blur(" + pixs + "px)"});
     });
 
-    $("div.lazyload").lazyload({ threshold : 200 });
+    $(document).ready(function () {
+        $(".lazyload").lazyload({
+            effect: 'fadeIn'
+        });
+    });
 </script>

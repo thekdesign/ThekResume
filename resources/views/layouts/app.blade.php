@@ -92,7 +92,7 @@
 
     <section id="slider" class="full-screen force-full-screen clearfix">
         <div class="full-screen force-full-screen blurred-img lazyload"
-             data-original="/css/images/hero-image/1.png"
+             data-src="/css/images/hero-image/1.png"
              style="position: fixed; width: 100%; background: #FFF no-repeat top center; background-size: cover; background-attachment: fixed;">
 
             <div class="container clearfix">
