@@ -19,7 +19,6 @@
                         <div class="image_fade lazyload"
                              data-original="/css/images/blog/1.png"
                              style="
-                             background-image: url('/css/images/blog/1.png');
                              width: 100%;
                              height: 80%;
                              padding-top: 80%;
@@ -55,7 +54,6 @@
                         <div class="image_fade lazyload"
                              data-original="/css/images/blog/1.png"
                              style="
-                             background-image: url('/css/images/blog/2.jpg');
                              width: 100%;
                              height: 80%;
                              padding-top: 80%;
@@ -90,7 +88,6 @@
                         <div class="image_fade lazyload"
                              data-original="/css/images/blog/1.png"
                              style="
-                             background-image: url('/css/images/blog/3.png');
                              width: 100%;
                              height: 80%;
                              padding-top: 80%;
