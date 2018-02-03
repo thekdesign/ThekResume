@@ -380,11 +380,11 @@ span.middot {
 }
 
 .bgcolor,
-.bgcolor #header-wrap { background-color: #90A4AE !important; }
+.bgcolor #header-wrap { background-color: #525252 !important; }
 
-.color { color: #90A4AE !important; }
+.color { color: #525252 !important; }
 
-.border-color { border-color: #90A4AE !important; }
+.border-color { border-color: #525252 !important; }
 
 .nobg { background: none !important; }
 

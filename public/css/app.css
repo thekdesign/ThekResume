@@ -10,6 +10,10 @@
 
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 
+* {
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
 html {
   font-family: 'Noto Sans TC', sans-serif;
   -ms-text-size-adjust: 100%;

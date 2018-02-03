@@ -13,8 +13,8 @@
             <div class="entry nobottomborder nobottompadding clearfix"
                  style="box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.09);">
                 <div class="entry-image nobottommargin">
-                    <a href="images/blog/full/17.jpg" data-lightbox="image"><img class="image_fade"
-                                                                                 src="demos/resume/images/blog/1.jpg"
+                    <a href="/css/images/blog/1.jpg" data-lightbox="image"><img class="image_fade"
+                                                                                 src="/css/images/blog/1.jpg"
                                                                                  alt="Standard Post with Image"
                                                                                  style="border-top-left-radius: 4px; border-top-right-radius: 4px;"></a>
                 </div>
@@ -36,8 +36,8 @@
             <div class="entry nobottomborder nobottompadding clearfix"
                  style="box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.09);">
                 <div class="entry-image nobottommargin">
-                    <a href="images/blog/full/17.jpg" data-lightbox="image"><img class="image_fade"
-                                                                                 src="demos/resume/images/blog/2.jpg"
+                    <a href="/css/images/blog/2.jpg" data-lightbox="image"><img class="image_fade"
+                                                                                 src="/css/images/blog/2.jpg"
                                                                                  alt="Standard Post with Image"
                                                                                  style="border-top-left-radius: 4px; border-top-right-radius: 4px;"></a>
                 </div>
@@ -59,8 +59,8 @@
             <div class="entry nobottomborder nobottompadding clearfix"
                  style="box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.09);">
                 <div class="entry-image nobottommargin">
-                    <a href="images/blog/full/17.jpg" data-lightbox="image"><img class="image_fade"
-                                                                                 src="demos/resume/images/blog/3.jpg"
+                    <a href="/css/images/blog/3.jpg" data-lightbox="image"><img class="image_fade"
+                                                                                 src="/css/images/blog/3.jpg"
                                                                                  alt="Standard Post with Image"
                                                                                  style="border-top-left-radius: 4px; border-top-right-radius: 4px;"></a>
                 </div>

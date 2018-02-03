@@ -1,4 +1,4 @@
-<div id="section-works" class="section page-section nomargin clearfix" style="background: #EEE url('css/images/sections/2.jpg') no-repeat center right; background-size: cover; padding: 100px 0">
+<div id="section-works" class="section page-section nomargin clearfix" style="background: #EEE url('/css/images/sections/2.png') no-repeat center right; background-size: cover; padding: 100px 0">
     <div class="container clearfix">
         <div class="row clearfix">
             <div class="col-md-5 col-md-offset-1">
@@ -24,7 +24,7 @@
                             <li><a href="demo-media-agency.html"><img src="images/intro/niche/media-agency.jpg" alt="">Media Agency</a></li>
                             <li><a href="demo-construction.html"><img src="images/intro/niche/construction.jpg" alt="">Construction</a></li>
                             <li><a href="demo-writer.html"><img src="images/intro/niche/writer.jpg" alt="">Writer</a></li>
-                            <li><a href="demo-real-estate.html"><img src="images/intro/niche/real-estate/1.jpg" alt="">Real Estate</a></li>
+                            <li><a href="demo-real-estate.html"><img src="images/intro/niche/real-estate/1.png" alt="">Real Estate</a></li>
                             <li><a href="demo-business.html"><img src="images/intro/niche/business.jpg" alt="">Business</a></li>
                             <li><a href="demo-app-landing.html"><img src="images/intro/niche/app-landing.jpg" alt="">App Landing</a></li>
                         </ul>
