@@ -5,6 +5,7 @@
 <link rel="stylesheet" href="css/bootstrap.css" type="text/css" />
 <link rel="stylesheet" href="css/style.css" type="text/css" />
 <link rel="stylesheet" href="css/dark.css" type="text/css" />
+<link rel="stylesheet" href="css/fonts.css" type="text/css" />
 
 <!-- Resume Specific Stylesheet -->
 <link rel="stylesheet" href="css/resume.css" type="text/css" />

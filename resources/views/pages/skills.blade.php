@@ -8,7 +8,7 @@
                     <a href="#"><i class="icon-html5" style="color: #DDD"></i></a>
                 </div>
                 <h3 class="t400 ls2" style="color: #FFF">HTML5</h3>
-                <p style="color:#AAA;">說明</p>
+                <p style="color:#AAA;">基本網頁架構</p>
             </div>
         </div>
 
