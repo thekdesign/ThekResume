@@ -11,7 +11,7 @@ small,
 .wp-caption,
 .feature-box.fbox-center.fbox-italic p,
 .skills li .progress-percent .counter,
-.nav-tree ul ul a { font-family: 'Noto Sans TC', sans-serif; }
+.nav-tree ul ul a { font-family: 'Noto Sans TC', sans-serif; !important;}
 
 h1,
 h2,
@@ -30,7 +30,7 @@ h6,
 label,
 .nav-tree li a,
 .wedding-head .first-name,
-.wedding-head .last-name { font-family: 'Noto Sans TC', sans-serif; }
+.wedding-head .last-name { font-family: 'Noto Sans TC', sans-serif; !important;}
 
 .entry-meta li,
 .entry-link span,
