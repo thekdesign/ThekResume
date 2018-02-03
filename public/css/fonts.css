@@ -3,8 +3,7 @@
 
 	Replace your Fonts as necessary
 -----------------------------------------------------------------*/
-
-
+@import url(https://fonts.googleapis.com/earlyaccess/notosanstc.css);
 
 body,
 small,
@@ -12,7 +11,7 @@ small,
 .wp-caption,
 .feature-box.fbox-center.fbox-italic p,
 .skills li .progress-percent .counter,
-.nav-tree ul ul a { font-family: 'Lato', sans-serif; }
+.nav-tree ul ul a { font-family: 'Noto Sans TC', sans-serif; }
 
 h1,
 h2,
@@ -31,7 +30,7 @@ h6,
 label,
 .nav-tree li a,
 .wedding-head .first-name,
-.wedding-head .last-name { font-family: 'Raleway', sans-serif; }
+.wedding-head .last-name { font-family: 'Noto Sans TC', sans-serif; }
 
 .entry-meta li,
 .entry-link span,
@@ -43,13 +42,13 @@ label,
 .team-title span,
 .before-heading,
 .wedding-head .first-name span,
-.wedding-head .last-name span { font-family: 'Crete Round', serif; }
+.wedding-head .last-name span { font-family: 'Noto Sans TC', sans-serif; }
 
-.font-body { font-family: 'Lato', sans-serif !important; }
+.font-body { font-family: 'Noto Sans TC', sans-serif; }
 
-.font-primary { font-family: 'Raleway', sans-serif !important; }
+.font-primary { font-family: 'Noto Sans TC', sans-serif;; }
 
-.font-secondary { font-family: 'Crete Round', serif !important; }
+.font-secondary { font-family: 'Noto Sans TC', sans-serif; }
 
 
 /* ----------------------------------------------------------------
